@@ -22,11 +22,6 @@ Inspired by industry leaders like **HubSpot**, **Salesforce**, **Linear**, **Ver
 - **Typography**: Inter Font
 - **Icons**: Lucide React
 
-*(Screenshots Placeholders)*
-- `[Screenshot: Executive Telemetry Dashboard & Revenue Charts]`
-- `[Screenshot: Deal Opportunities Pipeline & Activity Thread]`
-- `[Screenshot: Enterprise Account Directory & Client Contacts]`
-- `[Screenshot: Dark Mode SaaS Theme]`
 
 ---
 
