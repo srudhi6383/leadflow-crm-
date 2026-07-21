@@ -22,11 +22,6 @@ Inspired by industry leaders like **HubSpot**, **Salesforce**, **Linear**, **Ver
 - **Typography**: Inter Font
 - **Icons**: Lucide React
 
-*(Screenshots Placeholders)*
-- `[Screenshot: Executive Telemetry Dashboard & Revenue Charts]`
-- `[Screenshot: Deal Opportunities Pipeline & Activity Thread]`
-- `[Screenshot: Enterprise Account Directory & Client Contacts]`
-- `[Screenshot: Dark Mode SaaS Theme]`
 
 ---
 
@@ -188,25 +183,3 @@ npm run dev      # Start Vite client on http://localhost:5173
 | **Admin** | `admin@leadflow.ai` | `password123` |
 | **Sales AE** | `sarah.chen@leadflow.ai` | `password123` |
 
----
-
-## 🚢 Production Deployment
-
-- **Frontend**: Deploy to **Vercel** or **Netlify** with build command `npm run build` and output directory `dist`.
-- **Backend**: Deploy to **Render** or **Railway** set environment variables (`MONGODB_URI`, `JWT_SECRET`, `NODE_ENV=production`).
-- **Database**: **MongoDB Atlas** Cluster.
-
----
-
-## 🚀 Future Roadmap & Improvements
-
-- [ ] AI-Powered Lead Scoring & Conversion Probability Predictions.
-- [ ] Email Integration (SendGrid / AWS SES) for direct client outreach inside CRM.
-- [ ] Drag-and-Drop Kanban Board View for Deal Stages.
-- [ ] Webhook integration with Slack and HubSpot API.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. Built with ❤️ for enterprise sales teams.
