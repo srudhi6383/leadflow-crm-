@@ -12,19 +12,6 @@ Inspired by industry leaders like **HubSpot**, **Salesforce**, **Linear**, **Ver
 
 ---
 
-## 📸 Interface Preview & Design Aesthetics
-
-- **Primary Color**: `#4F46E5` (Indigo 600)
-- **Success Color**: `#10B981` (Emerald 500)
-- **Danger Color**: `#EF4444` (Red 500)
-- **Warning Color**: `#F59E0B` (Amber 500)
-- **Border Radius**: `16px` (`rounded-2xl`)
-- **Typography**: Inter Font
-- **Icons**: Lucide React
-
-
----
-
 ## ✨ Key Features
 
 ### 🔐 1. Authentication & Security
